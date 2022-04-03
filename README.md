@@ -24,10 +24,19 @@ I am Shofiya,first year computer engineering student at Gujarat Technological Un
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Machine Learning.
+- 🚀 &nbsp; I’m currently learning more about Web3 and Websecurity.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Shofiya2003).
 - 📫 &nbsp; How to reach me: shofiyabootwala@gmail.com.
 
+
+<br>
+
+### I am currently working on
+
+| Project      | Description |
+| ----------- | ----------- |
+| DevTinder      | A web app with tinder like UI where developers can find hackathon partners to collaborate on projects. The users will swipe right and left on profiles. Two developers can chat with each other when both swipe right on each others profile |
+| Note-ed   | A chrome extension which helps in preparing notes form youtube videos. Using this users can pin timestamps and write notes associated with it. These notes can be categorized into folders on the user dashboard.        |
 
 ## Skills
 
