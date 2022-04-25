@@ -55,9 +55,14 @@ I am Shofiya,first year computer engineering student at Gujarat Technological Un
 ### Frameworks:
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Database Systems:
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ODM:
+
+#### Mongoose
 
 ### Version Control:
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
