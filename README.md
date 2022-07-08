@@ -13,7 +13,7 @@
 ### Glad to see you here! &nbsp; 
 
 
-I am Shofiya,first year computer engineering student at Gujarat Technological University. I am always willing to learn.I am currently exploring different technologies to find my interest and building my problem solving skills. I am into **Web Development** and **Machine Learning**.
+I am Shofiya,first year computer engineering student at Gujarat Technological University. I am always willing to learn. I am currently exploring different technologies to find my interest and building my problem solving skills. I am into **Web Development**
 
 
 
@@ -24,7 +24,7 @@ I am Shofiya,first year computer engineering student at Gujarat Technological Un
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning more about Web3 and Websecurity.
+- 🚀 &nbsp; I’m working as a full stack web development intern and MLH Prep Fellow.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Shofiya2003).
 - 📫 &nbsp; How to reach me: shofiyabootwala@gmail.com.
 
