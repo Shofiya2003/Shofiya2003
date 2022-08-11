@@ -5,8 +5,6 @@
 
 I am a backend developer. I am currently learning more about DevOps and Cloud. 
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with MERN stack
