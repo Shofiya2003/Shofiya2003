@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Shofiya!](https://github.com/Shofiya2003/)
 
 
-### Glad to see you here! &nbsp 😉; 
+### Glad to see you here! 😉; 
 
 I am a backend developer. I am currently learning more about DevOps and Cloud. 
 
