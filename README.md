@@ -1,5 +1,4 @@
 ## Hey 👋, I'm [Shofiya!](https://github.com/Shofiya2003/)
-![](https://komarev.com/ghpvc/?username=Shofiya2003)
 
 ### Glad to see you here! 😉; 
 
