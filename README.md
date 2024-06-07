@@ -43,12 +43,6 @@ I am a backend developer. I am currently learning more about DevOps and Cloud.
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BootwalaShofiya)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072970882489)
 
-## Github Stats 📈
-
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=Shofiya2003&show_icons=true&theme=tokyonight" 
-/>
-
 
 
 
