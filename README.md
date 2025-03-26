@@ -7,8 +7,7 @@ I am a backend developer. I am currently learning more about DevOps and Cloud.
 ### Talking about Personal Stuffs:
 
 - 🌱 &nbsp; I'm learning LLD, Go, Rust and Networking
-- 👯‍♀️ &nbsp; Would love to collaborate on full stack projects and discuss tech stuff
-- ☁️ &nbsp; I am looking for help to learn DevOps and Cloud
+- ☁️ &nbsp; Learning DevOps and Cloud
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Shofiya2003).
 - 📫 &nbsp; How to reach me: shofiyabootwala@gmail.com.
 
