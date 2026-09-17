@@ -2,7 +2,7 @@
 
 #### Glad to see you here!
 
-I’m a software engineer interested in efficient ML systems, distributed inference, and systems for AI. Currently pursuing an M.S. at UCSD after working as a founding engineer at [Linkrunner](https://linkrunner.io/).
+I’m a software engineer interested in efficient distributed inference and Systems for AI. Currently pursuing an M.S. at UCSD after working as a founding engineer at [Linkrunner](https://linkrunner.io/).
 
 ### Talking about Personal Stuff:
 
